@@ -1,0 +1,8 @@
+﻿  C-MySQL.cpp
+C:\Users\我\source\repos\C-MySQL\C-MySQL\C-MySQL.cpp(52,7): warning C4101: “temp”: 未引用的局部变量
+C:\Users\我\source\repos\C-MySQL\C-MySQL\C-MySQL.cpp(247,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+C:\Users\我\source\repos\C-MySQL\C-MySQL\C-MySQL.cpp(262,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+C:\Users\我\source\repos\C-MySQL\C-MySQL\C-MySQL.cpp(298,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+C:\Users\我\source\repos\C-MySQL\C-MySQL\C-MySQL.cpp(339,67): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+C:\Users\我\source\repos\C-MySQL\C-MySQL\C-MySQL.cpp(389,67): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  C-MySQL.vcxproj -> C:\Users\我\source\repos\C-MySQL\x64\Debug\C-MySQL.exe
